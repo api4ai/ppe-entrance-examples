@@ -1,6 +1,6 @@
 # API4AI personal protective equipment detection entrance sample
 
-This directory contains a minimalistic sample that sends requests to the API4AI personal protective equipment entrance detection API. The sample is implemented in `python` using [requests](https://pypi.org/project/requests/) module.
+This directory contains a minimalistic sample that sends requests to the API4AI Personal Protective Equipment at Entrance detection API. The sample is implemented in `python` using [requests](https://pypi.org/project/requests/) module.
 
 
 ## Overview
@@ -46,5 +46,5 @@ that better meets your business requirements.
 
 📩 Email: hello@api4.ai
 🔗 Website: https://api4.ai
-🤖 Telegram demo bot: http://t.me/a4a_brand_det_bot
-🔵 Our API at RapidAPI marketplace: https://rapidapi.com/api4ai-api4ai-default/api/brand-recognition/details
+🤖 Telegram demo bot: https://t.me/a4a_ppe_bot
+🔵 Our API at RapidAPI marketplace: https://rapidapi.com/api4ai-api4ai-default/api/personal-protective-equipment/details
