@@ -49,6 +49,6 @@ if __name__ == '__main__':
 
     print(f'💬 Recognized persons: {len(objects)}\n')
     for num, obj in enumerate(objects, start=1):
-        print(f"💬 Quiepment of person and it's probabilities {num}:\n")
+        print(f"💬 Equipment of person and it's probabilities {num}:\n")
         for equip, probability in obj.items():
             print(f'{equip}: {probability}\n')
