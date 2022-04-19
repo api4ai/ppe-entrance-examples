@@ -49,7 +49,7 @@ async def main():
 
         print(f'💬 Recognized persons: {len(objects)}\n')
         for num, obj in enumerate(objects, start=1):
-            print(f"💬 Quiepment of person {num} and it's probabilities:\n")
+            print(f"💬 Equipment of person {num} and it's probabilities:\n")
             for equip, probability in obj.items():
                 print(f'{equip}: {probability}\n')
 
