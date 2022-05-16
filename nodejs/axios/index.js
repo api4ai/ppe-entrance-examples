@@ -50,7 +50,7 @@ axios.post(OPTIONS[MODE].url, form, { headers })
 
     console.log(`💬 Recognized persons: ${objects.length}\n`)
     objects.forEach((obj, index) => {
-      console.log(`💬 Equipment of person and it's probabilities ${index + 1}:\n`)
+      console.log(`💬 Person ${index + 1} equipment and probabilities:\n`)
       for (const key in obj) {
         console.log(`${key}: ${obj[key]}\n`)
       }
